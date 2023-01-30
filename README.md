@@ -1,8 +1,12 @@
-<<진짜 마지막 최종본>>
-개발환경 : 파이썬 3.8 (venv 가상환경으로 설정!)
+## 🚗자동차: **자동차 파손영역별 검사 및 가격 산출 AI**
+# car_accident_project
+car_accident_project
+
+개발환경 : 파이썬 3.8
+
 <car_accident_prj_final>
-최종코드+qt-app 코드
 pip install -r requirements.txt 후 실행
+
 <flask_car_accident>
 웹 구동 코드
 파일내 README.md 참고
