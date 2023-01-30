@@ -1,11 +1,13 @@
 import sys
+# pip install PyQt5
 from PyQt5.QtWidgets import *
 from PyQt5 import uic
 from PyQt5.QtGui import QPixmap
 from PIL import Image
 from keras.models import load_model
 import numpy as np
-from enlighten_inference import EnlightenOnnxModel차량
+# pip install git+https://github.com/arsenyinfo/EnlightenGAN-inference
+from enlighten_inference import EnlightenOnnxModel
 
 form_window = uic.loadUiType('../car_accident_qt.ui')[0]
 
