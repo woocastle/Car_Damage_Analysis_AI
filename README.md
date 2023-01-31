@@ -4,7 +4,7 @@
 
 pip install -r requirements.txt 후 실행
 
-<flask_car_accident>
+<car_accident_flask>
 웹 구동 코드
 파일내 README.md 참고
 
